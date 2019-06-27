@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRepo2", "DemoRepo2\DemoRepo2.csproj", "{62835337-2DF3-4BEC-B4FD-00EAB085B2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62835337-2DF3-4BEC-B4FD-00EAB085B2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62835337-2DF3-4BEC-B4FD-00EAB085B2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62835337-2DF3-4BEC-B4FD-00EAB085B2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62835337-2DF3-4BEC-B4FD-00EAB085B2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C22C73-98A6-411E-9D86-EFD6D33DCAA8}
+	EndGlobalSection
+EndGlobal
